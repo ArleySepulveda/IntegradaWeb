@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Ing.%20Sepulveda/Desktop/Operacion1.wsdl.xml" uri="src/conf/xml-resources/web-services/Cliente/wsdl/Operacion1.wsdl.xml.wsdl"/>
+    <system systemId="http://localhost:8080/Calculadora_Iva_Servidor/Operacion?xsd=1" uri="src/conf/xml-resources/web-services/Cliente/wsdl/localhost_8080/Calculadora_Iva_Servidor/Operacion.xsd_1.xsd"/>
+</catalog>
